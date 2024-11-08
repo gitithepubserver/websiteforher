@@ -1,6 +1,6 @@
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
+    alert('I love you too palchhu :)');
 }
 
 //move button on hover
